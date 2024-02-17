@@ -34,6 +34,9 @@ function App() {
       {
         renderPeople()
       }
+      <footer>
+        <a href="https://linktr.ee/developedbyjk" target="_blank"> @developedbyjk👨‍💻</a>
+      </footer>
      </div>
         
     </>

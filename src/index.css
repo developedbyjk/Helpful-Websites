@@ -47,3 +47,14 @@ body
 i{
     opacity: 0.5;
 }
+footer{
+  position: absolute;
+  bottom: 0;
+  padding: 20px;
+  right: 0;;
+  font-weight: bolder;
+ 
+}
+footer a{
+  color: palevioletred;
+}
