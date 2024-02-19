@@ -9,6 +9,7 @@ function App() {
     return website.map(website => {
       return (
         <div className="container">
+          <a href={website.link} target="_blank" >
             <div key={website.id} className='tile'>
               
                 <div className='icon'>
@@ -21,8 +22,8 @@ function App() {
                 </a>
                 <p>{website.desc}</p>
               </div>
-
-          </div>
+              </div>
+            </a>
         </div>
       )
     })
