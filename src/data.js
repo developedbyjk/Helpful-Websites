@@ -27,6 +27,32 @@ export const data = [
        desc: 'Make Animations',
          link : 'https://www.animstats.com/'
     },
+    {
+        id: 5,
+       icon: 'http://www.google.com/s2/favicons?domain=lordicon.com',
+       name: 'Lord Icon',
+       desc: 'Animated Icons',
+         link : 'https://lordicon.com/'
+    },
+    {
+        id: 6,
+       icon: 'http://www.google.com/s2/favicons?domain=elevenlabs.io',
+       name: 'Eleven Labs',
+       desc: 'Generate AI voice',
+         link : 'https://elevenlabs.io/'
+    },
+    {
+        id: 7,
+       icon: 'http://www.google.com/s2/favicons?domain=looka.com',
+       name: 'Looka',
+       desc: 'Logo Maker',
+         link : 'https://looka.com/'
+    },
+    
+
+    
+
+    
     
 
 ]
