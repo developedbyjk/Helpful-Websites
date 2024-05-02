@@ -48,6 +48,15 @@ export const data = [
        desc: 'Logo Maker',
          link : 'https://looka.com/'
     },
+    {
+      id: 8,
+     icon: 'http://www.google.com/s2/favicons?domain=stackradar.co',
+     name: 'Stack Radar',
+     desc: 'Tools',
+       link : 'https://www.stackradar.co/'
+  },
+
+    
     
 
     
